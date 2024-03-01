@@ -1,0 +1,6 @@
+import "io";
+
+fn main() int {
+    io.Println("Hello, world!");
+    return 0;
+}
